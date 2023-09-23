@@ -9,8 +9,13 @@ namespace Tyuiu.ShishkovIA.sprint1.task1.V0.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidExpression()
         {
+            DataService ds = new DataService();
+            double x = 1.0;
+            var res = ds.Calculate(x);
+            Assert.AreEqual(2, res);
+
         }
     }
 }
