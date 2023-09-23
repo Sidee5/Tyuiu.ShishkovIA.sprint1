@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA3FEE09-5FEE-4829-91F0-62380E9FF24B}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.ShishkovIA.sprint1.task2.V0</RootNamespace>
-    <AssemblyName>Tyuiu.ShishkovIA.sprint1.task2.V0</AssemblyName>
+    <ProjectGuid>{795E6BCF-E437-45B7-BF1F-522C24CD68F9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tyuiu.ShishkovIA.sprint1.task2.V0.lib</RootNamespace>
+    <AssemblyName>Tyuiu.ShishkovIA.sprint1.task2.V0.lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -41,19 +39,13 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\dll\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="DataService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ShishkovIA.sprint1.task2.V0.lib\Tyuiu.ShishkovIA.sprint1.task2.V0.lib.csproj">
-      <Project>{795e6bcf-e437-45b7-bf1f-522c24cd68f9}</Project>
-      <Name>Tyuiu.ShishkovIA.sprint1.task2.V0.lib</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

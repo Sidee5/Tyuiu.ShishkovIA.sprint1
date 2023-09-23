@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.ShishkovIA.sprint1.task2.V0.lib\Tyuiu.ShishkovIA.sprint1.task2.V0.lib.csproj">
+    <ProjectReference Include="..\Tyuiu.ShishkovIA.sprint1.task2.V0.lib\Tyuiu.ShishkovIA.sprint1.task2.V26.lib.csproj">
       <Project>{795e6bcf-e437-45b7-bf1f-522c24cd68f9}</Project>
-      <Name>Tyuiu.ShishkovIA.sprint1.task2.V0.lib</Name>
+      <Name>Tyuiu.ShishkovIA.sprint1.task2.V26.lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

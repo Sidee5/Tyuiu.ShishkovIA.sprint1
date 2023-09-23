@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{32119E1D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task1.V0", "Tyuiu.ShishkovIA.sprint1.task1.V0\Tyuiu.ShishkovIA.sprint1.task1.V0.csproj", "{C0645C82-11B3-4DA3-AFD8-5A79310B33D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V0", "Tyuiu.ShishkovIA.sprint1.task2.V0\Tyuiu.ShishkovIA.sprint1.task2.V0.csproj", "{AA3FEE09-5FEE-4829-91F0-62380E9FF24B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V26", "Tyuiu.ShishkovIA.sprint1.task2.V0\Tyuiu.ShishkovIA.sprint1.task2.V26.csproj", "{AA3FEE09-5FEE-4829-91F0-62380E9FF24B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task3.V0", "Tyuiu.ShishkovIA.sprint1.task3.V0\Tyuiu.ShishkovIA.sprint1.task3.V0.csproj", "{BC524E86-6A62-4831-B9F8-1D64B299E852}"
 EndProject
@@ -41,7 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task1.V0.lib", "Tyuiu.ShishkovIA.sprint1.task1.V0.lib\Tyuiu.ShishkovIA.sprint1.task1.V0.lib.csproj", "{946CCD40-9CD3-46E1-A9B7-7C98F95C254D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V0.lib", "Tyuiu.ShishkovIA.sprint1.task2.V0.lib\Tyuiu.ShishkovIA.sprint1.task2.V0.lib.csproj", "{795E6BCF-E437-45B7-BF1F-522C24CD68F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V26.lib", "Tyuiu.ShishkovIA.sprint1.task2.V0.lib\Tyuiu.ShishkovIA.sprint1.task2.V26.lib.csproj", "{795E6BCF-E437-45B7-BF1F-522C24CD68F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task3.V0.lib", "Tyuiu.ShishkovIA.sprint1.task3.V0.lib\Tyuiu.ShishkovIA.sprint1.task3.V0.lib.csproj", "{84DA6735-F4EF-46FF-AB4A-30DF9AFE64EE}"
 EndProject
@@ -55,7 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task1.V0.Test", "Tyuiu.ShishkovIA.sprint1.task1.V0.Test\Tyuiu.ShishkovIA.sprint1.task1.V0.Test.csproj", "{A561F274-0FA6-4424-899C-F2891C5C8A31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V0.Test", "Tyuiu.ShishkovIA.sprint1.task2.V0.Test\Tyuiu.ShishkovIA.sprint1.task2.V0.Test.csproj", "{568277D7-3B73-4DD7-9253-2CD8184B5DA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task2.V26.Test", "Tyuiu.ShishkovIA.sprint1.task2.V0.Test\Tyuiu.ShishkovIA.sprint1.task2.V26.Test.csproj", "{568277D7-3B73-4DD7-9253-2CD8184B5DA2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShishkovIA.sprint1.task3.V0.Test", "Tyuiu.ShishkovIA.sprint1.task3.V0.Test\Tyuiu.ShishkovIA.sprint1.task3.V0.Test.csproj", "{9B002DA1-AC77-4C56-A528-E7E11BCB684A}"
 EndProject
